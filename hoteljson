@@ -1,0 +1,61 @@
+[{
+		"codice-fiscale": "grdlcs99g06l28y",
+		"cognome": "Giordano",
+		"nome": "Lucas",
+		"cellulare": "3343948128",
+		"camera": {
+			"numero": 756,
+			"tipo": "singola"
+		}
+	},
+	{
+		"codice-fiscale": "allnntn99g06l28y",
+		"cognome": "Allemano",
+		"nome": "Antonio",
+		"cellulare": "3320394883",
+		"camera": {
+			"numero": 753,
+			"tipo": "singola"
+		}
+	},
+	{
+		"codice-fiscale": "grdlcs99g06l28y",
+		"cognome": "Giordano",
+		"nome": "Lucas",
+		"cellulare": "3343948128",
+		"camera": {
+			"numero": 343,
+			"tipo": "doppia"
+		}
+	},
+	{
+		"codice-fiscale": "allnntn99g06l28y",
+		"cognome": "Allemano",
+		"nome": "Antonio",
+		"cellulare": "3320394883",
+		"camera": {
+			"numero": 756,
+			"tipo": "singola"
+		}
+	},
+	{
+		"codice-fiscale": "mntldv99l04l200k",
+		"cognome": "Milano",
+		"nome": "Ludovico",
+		"cellulare": "3339485888",
+		"camera": {
+			"numero": 756,
+			"tipo": "singola"
+		}
+	},
+	{
+		"codice-fiscale": "grdlcs99g06l28y",
+		"cognome": "Giordano",
+		"nome": "Lucas",
+		"cellulare": "3343948128",
+		"camera": {
+			"numero": 122,
+			"tipo": "singola"
+		}
+	}
+]
