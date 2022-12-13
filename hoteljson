@@ -1,5 +1,5 @@
 [{
-		"codice-fiscale": "grdlcs99g06l28y",
+		"codicefiscale": "grdlcs99g06l28y",
 		"cognome": "Giordano",
 		"nome": "Lucas",
 		"cellulare": "3343948128",
@@ -9,7 +9,7 @@
 		}
 	},
 	{
-		"codice-fiscale": "allnntn99g06l28y",
+		"codicefiscale": "allnntn99g06l28y",
 		"cognome": "Allemano",
 		"nome": "Antonio",
 		"cellulare": "3320394883",
@@ -19,7 +19,7 @@
 		}
 	},
 	{
-		"codice-fiscale": "grdlcs99g06l28y",
+		"codicefiscale": "grdlcs99g06l28y",
 		"cognome": "Giordano",
 		"nome": "Lucas",
 		"cellulare": "3343948128",
@@ -29,7 +29,7 @@
 		}
 	},
 	{
-		"codice-fiscale": "allnntn99g06l28y",
+		"codicefiscale": "allnntn99g06l28y",
 		"cognome": "Allemano",
 		"nome": "Antonio",
 		"cellulare": "3320394883",
@@ -39,7 +39,7 @@
 		}
 	},
 	{
-		"codice-fiscale": "mntldv99l04l200k",
+		"codicefiscale": "mntldv99l04l200k",
 		"cognome": "Milano",
 		"nome": "Ludovico",
 		"cellulare": "3339485888",
@@ -49,7 +49,7 @@
 		}
 	},
 	{
-		"codice-fiscale": "grdlcs99g06l28y",
+		"codicefiscale": "grdlcs99g06l28y",
 		"cognome": "Giordano",
 		"nome": "Lucas",
 		"cellulare": "3343948128",
